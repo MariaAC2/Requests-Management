@@ -1,4 +1,4 @@
-# Requests-Management
+# Requests-Manager
 ### Chirnogeanu Maria-Andreea, Grupa 323CB
 
 #### Scopul temei
